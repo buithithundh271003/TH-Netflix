@@ -1,0 +1,55 @@
+.navigate{
+    padding:3px 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    align-items: center;
+}
+.nav-left img{
+    width: 100px;
+    height: 100px;
+
+}
+.nav-right{
+    display: flex;
+}
+.btn-nav{
+    color: white !important;
+    font-weight: bold !important;
+    text-align: center !important   ;
+    background-color: red !important;
+}
+.row1{
+    height: 100vh;
+    background-image: url(./image/VN-en-20240415-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+    
+
+}
+.en .btn-en{
+    align-items: center;
+    width: 100px;
+    height: 45px;
+    border: 2px solid black ;
+    border-radius: 10px;
+}
+.btn-finish{
+    width: 200px;
+    font-size: 1.4rem;
+    height: 55px;
+    font-weight: bold !important;
+
+    color: white;
+    background-color: red;
+    border: 1px solid gainsboro ;
+    border-radius: 10px;
+
+}
+.content-up{
+    color:white;
+    margin-left: 300px;
+    margin-top: 100px !important;
+}
+.title{
+    color:white;
+    font-weight: 600 ;
+}
